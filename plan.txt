@@ -1,0 +1,25 @@
+Linear Regression for tire degradation:
+
+https://www.youtube.com/watch?v=vfi5jCoSMh8&t=83s - watched this for info on tire deg
+
+Each compound tire has different rates in which it degrades, e.g. Hard tire takes longer.
+
+
+
+Tire deg is Dependent on: 
+ - Humidity - using weather data on fastf1✅
+ - Tire compound (Usually soft and medium has higher deg than hard)
+ - track temperature ✅
+Speed vs. Throttle: If the throttle is high, but speed is low, the car might be struggling for grip.✅
+Speed vs. Brake: If the car is braking hard but not slowing down quickly (low speed), it could indicate the tires aren't generating enough grip for effective braking.✅
+RPM and Throttle: If the car is applying a lot of throttle but the RPM is low, this might suggest that grip is insufficient, causing wheel spin or less power delivery to the ground.✅
+
+Keep in mind 
+(undercut vs overcut)
+
+
+
+
+If we model each tire to start on 100% (No degradation):
+
+we can predict the percentage decrease on tire deg using linear regression based on what tire deg is dependent on
