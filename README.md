@@ -2,6 +2,7 @@
 
 Will be trying to predict optimal pit stop laps for the Monaco GP
 
+![alt text](plots/throttle_speed.png)
 
 ![alt text](plots/tsunoda_laptimes.png)
 
