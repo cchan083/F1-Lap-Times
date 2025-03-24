@@ -22,7 +22,7 @@ model fuel levels
 
 build lin regression model with features: laptimes, max speed, to predict how old a tyre is ✅
 
-then build a logistic regression model in which we classify when a tyre needs to be replaced 
+then build a logistic regression model in which we classify when a tyre needs to be replaced - when tyre degrades too much 
 
 
 
