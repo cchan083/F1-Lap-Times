@@ -20,7 +20,7 @@ FP3 data cleaned
 model pit stop times
 model fuel levels
 
-build lin regression model with features: laptimes, max speed, to predict how old a tyre is
+build lin regression model with features: laptimes, max speed, to predict how old a tyre is ✅
 
 then build a logistic regression model in which we classify when a tyre needs to be replaced 
 
