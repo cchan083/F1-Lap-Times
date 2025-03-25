@@ -1,4 +1,4 @@
-# F1-Tyre-Strategies
+# F1-Lap-Times
 
 In this project, I will be predicting laptimes around the Monaco Circuit by driver Yuki Tsunoda of Racing Bulls
 
